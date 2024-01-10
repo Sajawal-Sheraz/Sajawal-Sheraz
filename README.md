@@ -10,6 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sajawal-sheraz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sajawal-sheraz&theme=blue-green&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sajawal-sheraz&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajawal-sheraz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
